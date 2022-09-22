@@ -9,6 +9,6 @@ I hope you like it, code it and [watch it](https://gustavolando.github.io/otCSS3
 
 ![CSS 3D Foldable Card Hover Effect](https://gustavolando.github.io/otCSS3DFoldableCardHoverEffects/CSS%203D%20Foldable%20Card%20Hover%20Effect%20folded.png)
 
-![CSS 3D Foldable Card Hover Effect](https://gustavolando.github.io/otCSS3DFoldableCardHoverEffects/CSS%203D%20Foldable%20Card%20Hover%20Effect%20unfolded.png)
+![CSS 3D Foldable Card Hover Effect](https://gustavolando.github.io/otCSS3DFoldableCardHoverEffects/CSS%203D%20Foldable%20Card%20Hover%20Effect%20unfold.png)
 
 Here is the animation live link:  https://gustavolando.github.io/otCSS3DFoldableCardHoverEffects/
